@@ -88,7 +88,7 @@ const handleSubmit = async (e) => {
 
     // fetch data from the server
     // const response = await fetch('https://localhost:5000/', {
-    const response = await fetch('https://codex-im0y.onrender.com/', {
+    const response = await fetch('https://mygpt-x2qm.onrender.com', {
             method: 'POST',
         headers: {
             'Content-Type': 'application/json',
